@@ -1,0 +1,112 @@
+
+
+.h1{width: 1000px;
+height: 400px;
+top: 400px;
+margin: auto;
+}
+.h2{   text-decoration: solid;
+    color:black;
+    
+
+}
+.right{top: 15%;
+}
+
+.yellow{
+    color:ghostwhite;
+    background-color:orange;
+    text-decoration: solid;
+    text-align: right;
+
+    height: 64px;
+width: 100px;
+left: 1120px;
+top: 580px;
+border: 2px solid;
+
+}
+.skill{position: absolute;
+    display: flex;
+ 
+justify-content: center;
+top: 1520px;
+background: local;
+left: 50%;
+}
+.size{display: flex;
+    justify-content: center;
+    top: 80%;
+}
+
+.gp{display:flex
+
+
+}
+
+.content{
+    margin-left: 50%;
+          top: 80%;
+          
+
+
+}
+
+
+
+.button{color:orangered;
+        text-decoration-color: aliceblue;
+             height: 64px;
+             width: 160px;
+             left: 1198px;
+             top: 619px;
+             border-radius: 5px;
+             }
+             .title{height: 29px;
+                width: 177px;
+                left: 277px;
+                top: 2063.2581787109375px;
+                border-radius: nullpx;
+                }
+                .jv{height: 29px;
+                    width: 181px;
+                    left: 586px;
+                    top: 2057.2998046875px;
+                    border-radius: nullpx;
+                    }
+              .habbit{height: 29px;
+                width: 164px;
+                left: 880px;
+                top: 2057.2998046875px;
+                border-radius: nullpx;
+                }
+                .ec{height: 29px;
+                    width: 214px;
+                    left: 1157px;
+                    top: 2057.2998046875px;
+                    border-radius: nullpx;
+                    }
+                    .watch{text-align: center;
+                        left: 10px;
+                        text:ALWAYS KEEP A POSITIVE MINDSET;
+                    }
+
+
+     
+        
+
+     
+         
+     
+
+     
+
+    
+
+
+
+
+
+
+
+    
